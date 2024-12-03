@@ -10,7 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 #background image
-output "*" bg /home/emerald/Downloads/_DSC1475_1.JPG fill
+#output "*" bg /home/emerald/Downloads/_DSC1475_1.JPG fill
 
 
 set $mod Mod4
